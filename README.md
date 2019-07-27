@@ -1,7 +1,7 @@
 # mitr-on
 
 ## Problem
-Conducting a safe election is a very hectic task but important task. Many problems arise during an election such as 
+Conducting a safe election is a very hectic but important task. Many problems arise during an election such as 
 - Fake voting
 - Lack of transparency
 - Accusations of EVM hacking
